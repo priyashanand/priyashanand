@@ -33,5 +33,5 @@ Skills:
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="45" height="55"/> 
 </p>
 
-![Priyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyashanand&theme=dark&show_icons=true)
+![Priyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyashanand&theme=nightowl&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyashanand&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
