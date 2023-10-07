@@ -30,6 +30,7 @@ Skills:
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="45" height="55"/> 
 </p>
 
 ![Priyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyashanand&theme=dark&show_icons=true)
