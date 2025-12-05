@@ -1,10 +1,7 @@
 ### Hi there 👋, My name is Priyash Anand
 #### Aspiring Web Developer and Machine Learning Enthusiast
 ![Aspiring Web Developer and Machine Learning Enthusiast](./github-header-image.png)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/priyashanand/count.svg" />
-</p>
+
 
 Hello! I'm Priyash Anand, a passionate Software Developer with a good background in computer science and electronics and communication and a drive to innovate.
 </br>
